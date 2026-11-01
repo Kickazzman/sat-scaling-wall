@@ -1,0 +1,676 @@
+{
+  "cells": [
+    {
+      "n": 100,
+      "ratio": 4.26,
+      "sat": 13,
+      "unsat": 7,
+      "timeout": 0,
+      "sat_fraction": 0.65,
+      "median_solve_s": 4.406568079502904,
+      "mean_solve_s": 7.477510485349922,
+      "max_solve_s": 20.575714812992373,
+      "instances": [
+        {
+          "rep": 0,
+          "status": "UNSAT",
+          "time_s": 19.054994020989398,
+          "nodes": 36389
+        },
+        {
+          "rep": 1,
+          "status": "UNSAT",
+          "time_s": 20.575714812992373,
+          "nodes": 43151
+        },
+        {
+          "rep": 2,
+          "status": "SAT",
+          "time_s": 5.58011551600066,
+          "nodes": 11930
+        },
+        {
+          "rep": 3,
+          "status": "SAT",
+          "time_s": 0.0065045680094044656,
+          "nodes": 26
+        },
+        {
+          "rep": 4,
+          "status": "SAT",
+          "time_s": 3.0829509450122714,
+          "nodes": 7733
+        },
+        {
+          "rep": 5,
+          "status": "UNSAT",
+          "time_s": 13.307897996011889,
+          "nodes": 27009
+        },
+        {
+          "rep": 6,
+          "status": "SAT",
+          "time_s": 20.399501310981577,
+          "nodes": 43867
+        },
+        {
+          "rep": 7,
+          "status": "UNSAT",
+          "time_s": 16.474777393013937,
+          "nodes": 33309
+        },
+        {
+          "rep": 8,
+          "status": "SAT",
+          "time_s": 0.0367879559926223,
+          "nodes": 69
+        },
+        {
+          "rep": 9,
+          "status": "UNSAT",
+          "time_s": 11.665711423993343,
+          "nodes": 24013
+        },
+        {
+          "rep": 10,
+          "status": "SAT",
+          "time_s": 2.856377619988052,
+          "nodes": 5780
+        },
+        {
+          "rep": 11,
+          "status": "SAT",
+          "time_s": 3.2330206430051476,
+          "nodes": 6686
+        },
+        {
+          "rep": 12,
+          "status": "SAT",
+          "time_s": 7.932404966006288,
+          "nodes": 16609
+        },
+        {
+          "rep": 13,
+          "status": "SAT",
+          "time_s": 0.0895854730042629,
+          "nodes": 213
+        },
+        {
+          "rep": 14,
+          "status": "UNSAT",
+          "time_s": 10.439732924976852,
+          "nodes": 19483
+        },
+        {
+          "rep": 15,
+          "status": "SAT",
+          "time_s": 0.8089064880041406,
+          "nodes": 1659
+        },
+        {
+          "rep": 16,
+          "status": "SAT",
+          "time_s": 2.3181548260035925,
+          "nodes": 4540
+        },
+        {
+          "rep": 17,
+          "status": "SAT",
+          "time_s": 0.06886028300505131,
+          "nodes": 140
+        },
+        {
+          "rep": 18,
+          "status": "UNSAT",
+          "time_s": 8.697029139002552,
+          "nodes": 16409
+        },
+        {
+          "rep": 19,
+          "status": "SAT",
+          "time_s": 2.9211814010050148,
+          "nodes": 6544
+        }
+      ]
+    },
+    {
+      "n": 110,
+      "ratio": 4.26,
+      "sat": 10,
+      "unsat": 4,
+      "timeout": 6,
+      "sat_fraction": 0.7142857142857143,
+      "median_solve_s": 9.535579243005486,
+      "mean_solve_s": 11.019222659358222,
+      "max_solve_s": 27.71950587799074,
+      "instances": [
+        {
+          "rep": 0,
+          "status": "UNSAT",
+          "time_s": 16.145926933008013,
+          "nodes": 26247
+        },
+        {
+          "rep": 1,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 2,
+          "status": "SAT",
+          "time_s": 0.03946864997851662,
+          "nodes": 124
+        },
+        {
+          "rep": 3,
+          "status": "SAT",
+          "time_s": 5.726715220022015,
+          "nodes": 9548
+        },
+        {
+          "rep": 4,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 5,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 6,
+          "status": "SAT",
+          "time_s": 13.352928025997244,
+          "nodes": 23628
+        },
+        {
+          "rep": 7,
+          "status": "UNSAT",
+          "time_s": 17.708513354009483,
+          "nodes": 28629
+        },
+        {
+          "rep": 8,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 9,
+          "status": "SAT",
+          "time_s": 9.56522807100555,
+          "nodes": 16091
+        },
+        {
+          "rep": 10,
+          "status": "SAT",
+          "time_s": 3.1437314380018506,
+          "nodes": 5686
+        },
+        {
+          "rep": 11,
+          "status": "SAT",
+          "time_s": 9.505930415005423,
+          "nodes": 15796
+        },
+        {
+          "rep": 12,
+          "status": "UNSAT",
+          "time_s": 27.71950587799074,
+          "nodes": 49393
+        },
+        {
+          "rep": 13,
+          "status": "SAT",
+          "time_s": 7.4511672430089675,
+          "nodes": 14491
+        },
+        {
+          "rep": 14,
+          "status": "SAT",
+          "time_s": 21.621426645986503,
+          "nodes": 38168
+        },
+        {
+          "rep": 15,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 16,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 17,
+          "status": "SAT",
+          "time_s": 3.994000998995034,
+          "nodes": 7732
+        },
+        {
+          "rep": 18,
+          "status": "SAT",
+          "time_s": 0.27934955700766295,
+          "nodes": 496
+        },
+        {
+          "rep": 19,
+          "status": "UNSAT",
+          "time_s": 18.015224800998112,
+          "nodes": 33501
+        }
+      ]
+    },
+    {
+      "n": 120,
+      "ratio": 4.26,
+      "sat": 9,
+      "unsat": 0,
+      "timeout": 11,
+      "sat_fraction": 1.0,
+      "median_solve_s": 3.0670424980053212,
+      "mean_solve_s": 4.706457709893584,
+      "max_solve_s": 10.926238637999631,
+      "instances": [
+        {
+          "rep": 0,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 1,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 2,
+          "status": "SAT",
+          "time_s": 10.926238637999631,
+          "nodes": 15867
+        },
+        {
+          "rep": 3,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 4,
+          "status": "SAT",
+          "time_s": 10.68245114799356,
+          "nodes": 17532
+        },
+        {
+          "rep": 5,
+          "status": "SAT",
+          "time_s": 0.889213678019587,
+          "nodes": 1270
+        },
+        {
+          "rep": 6,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 7,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 8,
+          "status": "SAT",
+          "time_s": 1.0407954390102532,
+          "nodes": 1631
+        },
+        {
+          "rep": 9,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 10,
+          "status": "SAT",
+          "time_s": 0.015122231998248026,
+          "nodes": 41
+        },
+        {
+          "rep": 11,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 12,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 13,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 14,
+          "status": "SAT",
+          "time_s": 3.0670424980053212,
+          "nodes": 4123
+        },
+        {
+          "rep": 15,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 16,
+          "status": "SAT",
+          "time_s": 2.323887368023861,
+          "nodes": 4432
+        },
+        {
+          "rep": 17,
+          "status": "SAT",
+          "time_s": 7.370396444981452,
+          "nodes": 13696
+        },
+        {
+          "rep": 18,
+          "status": "SAT",
+          "time_s": 6.042971943010343,
+          "nodes": 9164
+        },
+        {
+          "rep": 19,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        }
+      ]
+    },
+    {
+      "n": 130,
+      "ratio": 4.26,
+      "sat": 5,
+      "unsat": 0,
+      "timeout": 15,
+      "sat_fraction": 1.0,
+      "median_solve_s": 14.371316867996939,
+      "mean_solve_s": 13.963587751588785,
+      "max_solve_s": 21.392083121987525,
+      "instances": [
+        {
+          "rep": 0,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 1,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 2,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 3,
+          "status": "SAT",
+          "time_s": 21.392083121987525,
+          "nodes": 28128
+        },
+        {
+          "rep": 4,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 5,
+          "status": "SAT",
+          "time_s": 12.980410036980174,
+          "nodes": 15277
+        },
+        {
+          "rep": 6,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 7,
+          "status": "SAT",
+          "time_s": 4.023377346980851,
+          "nodes": 5748
+        },
+        {
+          "rep": 8,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 9,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 10,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 11,
+          "status": "SAT",
+          "time_s": 14.371316867996939,
+          "nodes": 18899
+        },
+        {
+          "rep": 12,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 13,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 14,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 15,
+          "status": "SAT",
+          "time_s": 17.05075138399843,
+          "nodes": 25367
+        },
+        {
+          "rep": 16,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 17,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 18,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 19,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        }
+      ]
+    },
+    {
+      "n": 150,
+      "ratio": 4.26,
+      "sat": 1,
+      "unsat": 0,
+      "timeout": 19,
+      "sat_fraction": 1.0,
+      "median_solve_s": 0.9706028779910412,
+      "mean_solve_s": 0.9706028779910412,
+      "max_solve_s": 0.9706028779910412,
+      "instances": [
+        {
+          "rep": 0,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 1,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 2,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 3,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 4,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 5,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 6,
+          "status": "SAT",
+          "time_s": 0.9706028779910412,
+          "nodes": 1031
+        },
+        {
+          "rep": 7,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 8,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 9,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 10,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 11,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 12,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 13,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 14,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 15,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 16,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 17,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 18,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        },
+        {
+          "rep": 19,
+          "status": "TIMEOUT",
+          "time_s": null,
+          "nodes": null
+        }
+      ]
+    }
+  ],
+  "log_fit": {
+    "slope": -0.012161269311501053,
+    "intercept": 2.1346159554722517,
+    "base": 0.972386074467853,
+    "projected_wall_n": null,
+    "fit_points": 5
+  }
+}
